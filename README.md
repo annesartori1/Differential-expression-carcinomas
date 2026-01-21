@@ -12,11 +12,11 @@ Head and neck squamous cell carcinomas (HNSCC) are malignancies of the oral cavi
 
 
 
-Click here for \[Report](https://github.com/annesartori1/Differential-expression-carcinomas/blob/main/report/Sartori_Differential_Expression_HNSCCs.pdf).  
+Click here for [Report](https://github.com/annesartori1/Differential-expression-carcinomas/blob/main/report/Sartori_Differential_Expression_HNSCCs.pdf).  
 
 
 
-Click here for \[Script](https://github.com/annesartori1/Differential-expression-carcinomas/blob/main/script/Differential_expression_HNSCCs.R). 
+Click here for [Script](https://github.com/annesartori1/Differential-expression-carcinomas/blob/main/script/Differential_expression_HNSCCs.R). 
 
 
 
